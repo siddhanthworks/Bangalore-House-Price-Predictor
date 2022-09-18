@@ -1,0 +1,6 @@
+TRAIN_DATA = 'C:/Users/saisi/Desktop/Rebuild/data/train.csv'
+TEST_DATA =  'C:/Users/saisi/Desktop/Rebuild/data/test.csv'
+TRAIN_PROCESSED_DATA = 'C:/Users/saisi/Desktop/Rebuild/data/train_processed.csv'
+TEST_PROCESSED_DATA = 'C:/Users/saisi/Desktop/Rebuild/data/test_processed.csv'
+MODELS_PATH = 'C:/Users/saisi/Desktop/Rebuild/models/'
+MODEL = 'randomforest'
